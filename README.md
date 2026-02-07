@@ -197,7 +197,7 @@ If meal preferences enabled:
 8. Receive confirmation email
 
 ## 11. Techonology stack:
-* Nextjs app hosted on Cloudflare workers
+* Nextjs app hosted on Cloudflare Pages
 * Tailwindcss and Shadcn for the UI
 * Cloudflare D1 for database
 * resend.com for emailing out
